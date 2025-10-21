@@ -70,18 +70,15 @@ The script can be safely run multiple times:
 - Updates Nginx configuration without duplicates
 - Checks for existing installations before installing
 
-## Project Structure
-```
-hng13-stage1-devops/
-├── deploy.sh          # Main deployment script
-├── README.md          # This file
-└── deploy_*.log       # Generated log files
-```
+
 ## Deployment
 
 The application is currently deployed at:
 
 http://192.168.125.129/
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fb57998d-de92-4ccb-84e7-557867856501" />
+
 
 ## Author
 LydiahLaw
