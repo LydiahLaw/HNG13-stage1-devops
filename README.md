@@ -77,6 +77,11 @@ hng13-stage1-devops/
 ├── README.md          # This file
 └── deploy_*.log       # Generated log files
 ```
+## Deployment
+
+The application is currently deployed at:
+
+http://192.168.125.129/
 
 ## Author
 LydiahLaw
