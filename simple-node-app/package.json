@@ -1,0 +1,11 @@
+{
+  "name": "hng-devops-app",
+  "version": "1.0.0",
+  "description": "Simple app for HNG13 Stage 1 DevOps Task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "LydiahLaw",
+  "license": "ISC"
+}
