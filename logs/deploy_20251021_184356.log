@@ -1,0 +1,18 @@
+2025-10-21 18:43:56 Starting deploy script, cleanup=0
+2025-10-21 18:44:10 Got Git URL
+2025-10-21 18:44:19 PAT provided
+2025-10-21 18:44:21 Branch set to main
+2025-10-21 18:44:25 Remote user: lydiahlaw
+2025-10-21 18:44:41 Remote IP: 192.168.125.129
+2025-10-21 18:45:08 SSH key exists
+2025-10-21 18:45:47 App port: 3000
+2025-10-21 18:45:47 Repo basename: hng13-stage1-devops
+2025-10-21 18:45:47 Cloning repository
+Cloning into 'hng13-stage1-devops'...
+2025-10-21 18:45:49 Repository ready at ./hng13-stage1-devops
+2025-10-21 18:45:49 WARNING: no Dockerfile or docker-compose.yml found in repository
+2025-10-21 18:45:49 Checking SSH connectivity to remote
+Warning: Permanently added '192.168.125.129' (ED25519) to the list of known hosts.
+lydiahlaw@192.168.125.129: Permission denied (publickey,password).
+2025-10-21 18:45:49 ERROR: SSH connectivity failed
+2025-10-21 18:45:49 Script failed with exit code 6

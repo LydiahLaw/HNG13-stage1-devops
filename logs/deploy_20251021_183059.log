@@ -1,0 +1,8 @@
+2025-10-21 18:30:59 Starting deploy script, cleanup=0
+2025-10-21 18:31:04 Got Git URL
+2025-10-21 18:35:00 PAT provided
+2025-10-21 18:35:05 Branch set to main
+2025-10-21 18:37:35 Remote user: lydiahlaw
+2025-10-21 18:38:30 Remote IP: 192.168.125.129
+2025-10-21 18:40:17 ERROR: SSH key file not found at ~/.ssh/id_ed25519
+2025-10-21 18:40:17 Script failed with exit code 1
